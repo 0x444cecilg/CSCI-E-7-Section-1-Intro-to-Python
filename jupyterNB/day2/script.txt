@@ -1,0 +1,10 @@
+# script.py
+# 
+# Jeff Parker  June 19, 2016
+#
+# Example from A. B. Downey
+#
+# Our first Python Program
+
+n = 17
+print(n)
